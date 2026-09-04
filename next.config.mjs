@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
-};
+  allowedDevOrigins: [
+    'revisit-casing-energize.ngrok-free.dev',
+  ],
+}
 
-export default nextConfig;
+export default nextConfig
