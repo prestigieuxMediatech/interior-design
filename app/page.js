@@ -8,7 +8,7 @@ import LetsTalk from './Component/LetsTalk'
 
 const page = () => {
   return (
-    <div className=' w-full  h-screen '>
+    <div className='  '>
       
       <Hero/>
       <About/>
