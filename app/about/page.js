@@ -966,7 +966,7 @@ useLayoutEffect(() => {
               <div className="timeline-image aspect-[16/9] overflow-hidden">
 
                 <img
-                  src="/interiorProject2.jpg"
+                  src="./interiorProject2.jpg"
                   alt="Interior project"
                   className="h-full w-full object-cover"
                 />
