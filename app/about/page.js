@@ -1118,7 +1118,7 @@ useLayoutEffect(() => {
               <div className="aspect-[16/8] overflow-hidden">
 
                 <img
-                  src="/bedroom-design.jpg"
+                  src="./bedroom-design.jpg"
                   alt="Bedroom interior"
                   className="h-full w-full object-cover transition-transform duration-700 hover:scale-105"
                 />
